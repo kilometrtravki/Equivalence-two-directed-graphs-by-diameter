@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e1619342-3057-4ae0-b3b1-85297fd8cd90": {
+      "ProjectGuid": "e1619342-3057-4ae0-b3b1-85297fd8cd90",
+      "DisplayName": "CourseWork",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "97849a5e-3572-4497-b563-f58a215eea70": {
+      "ProjectGuid": "97849a5e-3572-4497-b563-f58a215eea70",
+      "DisplayName": "UnitTestProject",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

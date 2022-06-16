@@ -1,0 +1,11 @@
+C:\Users\Vladimir Sorokin\Desktop\CourseWork\CourseWork\bin\Debug\CourseWork.exe.config
+C:\Users\Vladimir Sorokin\Desktop\CourseWork\CourseWork\bin\Debug\CourseWork.exe
+C:\Users\Vladimir Sorokin\Desktop\CourseWork\CourseWork\bin\Debug\CourseWork.pdb
+C:\Users\Vladimir Sorokin\Desktop\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.AssemblyReference.cache
+C:\Users\Vladimir Sorokin\Desktop\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir Sorokin\Desktop\CourseWork\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+C:\Users\Vladimir Sorokin\Desktop\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.cache
+C:\Users\Vladimir Sorokin\Desktop\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Sorokin\Desktop\CourseWork\CourseWork\obj\Debug\CourseWork.exe
+C:\Users\Vladimir Sorokin\Desktop\CourseWork\CourseWork\obj\Debug\CourseWork.pdb
+C:\Users\Vladimir Sorokin\Desktop\CourseWork\CourseWork\obj\Debug\CourseWork.MainMenu.resources
